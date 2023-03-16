@@ -4,7 +4,7 @@ To run this code
 1. Clone this repository
 2. In the root of directory, run `npm i` in the terminal to install the necessary libraries found in package.json
 3. In the file `merge.ts`, you can find the merge function.
-4. To run this function, run `ts-node main.ts` and see the results in the terminal.
+4. To run this function, run `npm run dev` and see the results in the terminal.
 
 
 To test this code
